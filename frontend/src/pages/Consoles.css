@@ -1,0 +1,14 @@
+.cons-image {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.cons-box {
+    width: 300px;
+    height: 100%;
+}
+
+.console-link {
+    text-decoration: none;
+    color: white;
+}

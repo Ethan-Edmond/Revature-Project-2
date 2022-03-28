@@ -1,0 +1,57 @@
+.mario-rpg-image {
+    /*animation-name: moveRight;
+    animation-duration: 5s;
+    animation-iteration-count: infinite; */
+    /*animation-fill-mode: forwards;*/
+}
+
+@keyframes moveRight {
+    0% {left: 200px}
+    20% {left: 250px}
+    40% {left: 325px}
+    60% {left: 400px}
+    80% {left: 475px}
+    100% {left: 550px}
+}
+
+.mario-image {
+    /* animation-name: moveMario;
+    animation-duration: 3s;
+    animation-iteration-count: infinite; */
+}
+
+@keyframes moveMario {
+    0% {right: 0px}
+    100% {right: 175px; bottom: 100px;}
+}
+
+.img-flip {
+    transform: scaleX(-1);
+}
+
+.retro-deals-section {
+    height: 100%;
+}
+
+.retro-deals-image {
+    height: 300px;
+}
+
+.box-deal {
+    height: 100%;
+}
+
+.bobomb-section {
+    margin-top: 150px;
+}
+
+.snake-title {
+    margin-top: 150px;
+}
+
+.snake-game {
+    margin: 0 auto;
+}
+
+
+

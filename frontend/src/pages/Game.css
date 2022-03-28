@@ -1,0 +1,24 @@
+.game-info {
+    text-align: left;
+    margin-left: 2rem;
+}
+
+.game-info h1 {
+    margin-bottom: 2rem;
+}
+
+.consoles-section {
+    margin-left: 2rem;
+}
+
+.add-cart-button:hover {
+    color: lime;
+    cursor: pointer;
+}
+
+
+.series-image {
+    box-sizing: border-box;
+    max-width: 100%;
+    display: block;
+}

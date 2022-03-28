@@ -1,0 +1,9 @@
+.series-box {
+    width: 100%;
+    height: 100%;
+}
+
+.serieses-image {
+    box-sizing: border-box;
+    width: 100%;
+}
