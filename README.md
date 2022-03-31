@@ -42,3 +42,8 @@ It allows you to buy games and game consoles with a cart and checkout.
 * Admin section of the site for changing stock and updating game information
 * Logging for better server administration
 
+## Contributors
+* Nathaniel Warner
+* Phillip Vo
+* Sebastian Fierros
+* Ethan Edmond
